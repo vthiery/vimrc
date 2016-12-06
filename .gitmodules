@@ -1,0 +1,6 @@
+[submodule "vim/bundle/Conque-GDB"]
+	path = vim/bundle/Conque-GDB
+	url = https://github.com/vim-scripts/Conque-GDB.git
+[submodule "vim/bundle/nerdtree"]
+	path = vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git

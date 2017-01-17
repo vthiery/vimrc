@@ -36,6 +36,6 @@ This configuration uses the following modules:
 The shortcuts I made available so far are:
 
 Shortcut            | Description
----------------------------------------------
+--------------------|------------------------
 <kbd>Ctrl-B</kbd>   | toggles the side panel for NerdTree
 

@@ -26,3 +26,16 @@ git submodule update --init --recursive
 ln -s "/path/to/vimrc/vimrc" .vimrc
 ln -s "/path/to/vimrc/vim" .vim
 ```
+
+## Modules ##
+This configuration uses the following modules:
+- [Conque-GDB](https://github.com/vim-scripts/Conque-GDB) - offers CLI interface inside of Vim
+- [NerdTree](https://github.com/scrooloose/nerdtree) - allows to explore and open files and directories
+
+## Key Shortcuts ##
+The shortcuts I made available so far are:
+
+Shortcut            | Description
+---------------------------------------------
+<kbd>Ctrl-B</kbd>   | toggles the side panel for NerdTree
+

@@ -22,6 +22,7 @@ set shell=bash			                            " enforce use bash shell
 set showmode			                            " show the active mode
 set number			                                " always show the lines
 set nowrap			                                " do not wrap the lines
+set autochdir                                       " work in current directory
 
 
 " Conventions
